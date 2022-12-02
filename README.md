@@ -5,8 +5,15 @@
 ```
 python --version
 ```
+- An [OpenAI](https://beta.openai.com/overview) account which you can create for free
+
 # Setup
-- Create an api key from 
-# Instalation
-- Clone the repo to somehwere on your computer
-- Cd into the OutlineBuilder directory
+- Create an OpenAI api key [here](https://beta.openai.com/account/api-keys)
+- In line 5 of outline_builder.py plug in your secret API key
+# Run
+- Make sure you're in the OutlineBuilder directory
+- Run
+```
+python3 outline_builder.py
+```
+- Enjoy 😎
